@@ -1,0 +1,5 @@
+Modelos com o mesmo parametro mas com métricas diferentes
+
+            MAE     MAPE    RMSE        MPE
+Meigarom :  664.97  0.09     957.77     -0.003
+Ricardo  :  760.06  0.11    1088.44     -0.019
